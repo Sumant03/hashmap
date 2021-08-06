@@ -12,9 +12,9 @@ public class highestFrequency {
         HashMap<Character,Integer> hm=new HashMap<>();
         
         char hi=str.charAt(0);
-        hm.put(hi,1);
+         int freq=0;
         
-        for(int i=1;i<str.length();i++){
+        for(int i=0;i<str.length();i++){
             char ch=str.charAt(i);
             
             
@@ -28,8 +28,9 @@ public class highestFrequency {
                 hm.put(ch,1);
             }
             
-            if(hm.get(ch)>hm.get(hi)){
+            if(hm.get(ch)>freq){
                 hi=ch;
+                freq=hm.get(ch);
             }
             
         }
