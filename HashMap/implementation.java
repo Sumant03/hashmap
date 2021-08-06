@@ -16,5 +16,25 @@ public class implementation {
 
       hm.put("India",300);
       System.out.println(hm);
+
+      System.out.println(hm.containsKey("USA"));
+      System.out.println(hm.containsKey("Utopia"));
+
+      System.out.println(hm.keySet());  //it gives a Set 
+
+
+      // Set->
+   
+   
+      // 1st method
+    //   ArrayList<String> hmValue=new ArrayList<>(hm.keySet());
+    //   System.out.println(hmValue);
+
+       //2nd method
+    for(String key:hm.keySet()){
+        System.out.println(key+"-->"+hm.get(key));
+    }
+
+
 }
 }
