@@ -1,5 +1,5 @@
 
-import java.io.*;
+// import java.io.*;
 import java.util.*;
 
 public class highestFrequency {
@@ -36,7 +36,7 @@ public class highestFrequency {
         }
         System.out.println(hi);
     
-        
+        scn.close();
         
         
         
