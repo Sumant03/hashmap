@@ -1,8 +1,9 @@
 {
     "java.project.sourcePaths": [
+        "word.java",
         "HashMap",
         "GRAPH",
         "BST",
-        "word.java"
+        "Heap&PriorityQueue"
     ]
 }
