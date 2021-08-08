@@ -19,7 +19,7 @@ public class MergeKSorted {
    
    
    public static ArrayList<Integer> mergeKSortedLists(ArrayList<ArrayList<Integer>> lists){
-      ArrayList<Integer> rv = new ArrayList<>();
+    
 
       // write your code here
    PriorityQueue<Pair> pq=new PriorityQueue<>();

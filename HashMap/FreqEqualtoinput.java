@@ -37,7 +37,7 @@ public class FreqEqualtoinput {
         }else{
             System.out.print("-1");
         }
-
+     scn.close();
         
     }
     
