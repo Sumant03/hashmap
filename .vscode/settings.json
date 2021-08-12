@@ -1,9 +1,10 @@
 {
     "java.project.sourcePaths": [
         "word.java",
+        "Heap&PriorityQueue",
         "HashMap",
         "GRAPH",
         "BST",
-        "Heap&PriorityQueue"
+        "GettingStarted"
     ]
 }
