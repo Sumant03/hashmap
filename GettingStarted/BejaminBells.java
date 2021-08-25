@@ -15,6 +15,6 @@ import java.util.*;
     System.out.println(i*i); 
     }
     
-    
+     scn.close();
    }
   }
