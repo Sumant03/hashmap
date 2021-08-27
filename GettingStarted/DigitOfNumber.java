@@ -15,7 +15,7 @@ import java.util.*;
         count++;
     }
       
-      
+    scn.close();
       
       
       

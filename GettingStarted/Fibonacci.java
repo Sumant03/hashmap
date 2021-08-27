@@ -21,6 +21,6 @@ import java.util.*;
           limit--;
           
       }
-      
+      scn.close();      
    }
   }

@@ -32,6 +32,6 @@ import java.util.*;
      System.out.println(n);
      
      
-     
+     scn.close();
     }
    }

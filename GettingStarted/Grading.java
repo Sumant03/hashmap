@@ -27,7 +27,7 @@ import java.util.*;
       }
       
       
-      
+      scn.close();  
       
       }
   

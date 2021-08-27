@@ -16,7 +16,7 @@ public class PrintingPrime{
             }
         }
         
-        
+        scn.close();
         
     }
     

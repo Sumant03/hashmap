@@ -25,6 +25,8 @@ import java.util.*;
        }else{
            System.out.println("not prime");
        }
+
+       scn.close();
        }
   
    }

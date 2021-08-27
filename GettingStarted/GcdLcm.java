@@ -28,6 +28,6 @@ import java.util.*;
       System.out.println(lcm);
       
       
-      
+      scn.close();
      }
     }
