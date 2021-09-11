@@ -21,6 +21,7 @@ public class time {
 
               getValue(arr,lo,hi);
           }
+          scn.close();
     }
 
     public static void getValue(int[] arr,int lo,int hi){
@@ -33,4 +34,3 @@ public class time {
     }
 
 }
-
